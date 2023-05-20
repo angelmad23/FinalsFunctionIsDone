@@ -1,0 +1,17 @@
+C:\Users\Vince\source\repos\Figma\Figma\obj\Debug\Figma.csproj.AssemblyReference.cache
+C:\Users\Vince\source\repos\Figma\Figma\obj\Debug\Figma.csproj.SuggestedBindingRedirects.cache
+C:\Users\Vince\source\repos\Figma\Figma\obj\Debug\Figma.Form1.resources
+C:\Users\Vince\source\repos\Figma\Figma\obj\Debug\Figma.Form2.resources
+C:\Users\Vince\source\repos\Figma\Figma\obj\Debug\Figma.Form3.resources
+C:\Users\Vince\source\repos\Figma\Figma\obj\Debug\Figma.Properties.Resources.resources
+C:\Users\Vince\source\repos\Figma\Figma\obj\Debug\Figma.csproj.GenerateResource.cache
+C:\Users\Vince\source\repos\Figma\Figma\obj\Debug\Figma.csproj.CoreCompileInputs.cache
+C:\Users\Vince\source\repos\Figma\Figma\bin\Debug\Figma.exe.config
+C:\Users\Vince\source\repos\Figma\Figma\bin\Debug\Figma.exe
+C:\Users\Vince\source\repos\Figma\Figma\bin\Debug\Figma.pdb
+C:\Users\Vince\source\repos\Figma\Figma\obj\Debug\Figma.exe
+C:\Users\Vince\source\repos\Figma\Figma\obj\Debug\Figma.pdb
+C:\Users\Vince\source\repos\Figma\Figma\obj\Debug\Figma.Form4.resources
+C:\Users\Vince\source\repos\Figma\Figma\obj\Debug\Figma.Form5.resources
+C:\Users\Vince\source\repos\Figma\Figma\obj\Debug\Figma.Form6.resources
+C:\Users\Vince\source\repos\Figma\Figma\obj\Debug\Figma.Form7.resources
